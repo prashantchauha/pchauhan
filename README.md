@@ -1,4 +1,4 @@
-# SUperconductor spectrum fitting
+# Superconductor spectrum fitting
 matlab fitting see-
 %depending on required output the function names can be [recon,imgcon] or conduct or recon or imgcon
 %Input variables are the frequency (THz), Temp (K), critical temp Tc (K)
